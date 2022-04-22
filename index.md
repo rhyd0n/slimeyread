@@ -14,7 +14,10 @@
 [Volume 14](https://nbviewer.org/github/rhyd0n/slimeyread/blob/gh-pages/LN%2014%20A%20Big%20Battle%20Of%20country%2CYuuki%20Kagurazaka.pdf)  
 [Volume 15](https://nbviewer.org/github/rhyd0n/slimeyread/blob/gh-pages/LN%2015%20Clash%20of%20Two%20True%20Dragon.pdf)  
 [Volume 16](https://nbviewer.org/github/rhyd0n/slimeyread/blob/gh-pages/LN%2016%20.pdf)  
+[Volume 17](https://nbviewer.org/github/rhyd0n/slimeyread/blob/gh-pages/LN%2017%20Fragments%20Across%20Spacetime.pdf)  
+[Volume 18](https://nbviewer.org/github/rhyd0n/slimeyread/blob/gh-pages/LN%2018%20The%20End%20of%20Ambition.pdf)  
 [Side Stories V2](Slime%20LN%20Side%20Stories%20V2.pdf)  
+
 
 
 
